@@ -1,0 +1,10 @@
+mrpl - 1
+ss ia lab - 2
+ss ex lab - 1
+aiml lab - 1
+aiml ex lab - 1
+m3 m4 - 2
+job - 10
+inter call - 5
+job > 10 - 1 lac
+job > 8 - 50
