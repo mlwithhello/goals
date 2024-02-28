@@ -8,3 +8,6 @@ job - 10
 inter call - 5
 job > 10 - 1 lac
 job > 8 - 50
+scholarship - 5k
+dp 900 - 2k
+dp 203 - 3k
