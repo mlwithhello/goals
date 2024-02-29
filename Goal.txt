@@ -11,3 +11,4 @@ job > 8 - 50
 scholarship - 5k
 dp 900 - 2k
 dp 203 - 3k
+june 1 joining data - 5k
