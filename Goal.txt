@@ -1,13 +1,13 @@
-mrpl - 1
-ss ia lab - 2
-ss ex lab - 1
-aiml lab - 1
-aiml ex lab - 1
-m3 m4 - 2
-job - 10
-inter call - 5
+mrpl - 1k
+ss ia lab - 2k
+ss ex lab - 1k
+aiml lab - 1k
+aiml ex lab - 1k
+m3 m4 - 2k
+job - 10k
+inter call - 5k
 job > 10 - 1 lac
-job > 8 - 50
+job > 8 - 50k
 scholarship - 5k
 dp 900 - 2k
 dp 203 - 3k
@@ -19,3 +19,4 @@ gail 10% - 0.5k
 cricket match - 1k
 MSMS5A089263 -1
 MSMS5C26433B -2
+Cricket - 1k
